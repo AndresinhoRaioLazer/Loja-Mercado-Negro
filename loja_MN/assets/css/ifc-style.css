@@ -1,0 +1,35 @@
+body {
+  padding-top: 55px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 55px;
+  }
+}
+
+.card {
+  height: 100%;
+}
+
+.bg-dark {
+  background-color: black;
+}
+
+.btn-ifc {
+  color: #fff;
+  background-color: black;
+  border-color: transparent;
+  border: transparent 0px;
+}
+.btn-ifc:hover {
+  color: #fff;
+  background-color: gray;
+}
+
+.footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
